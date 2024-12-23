@@ -3,7 +3,8 @@ Selenium Web Automation for Google Forms Submission
 
 This repository contains a Python-based Selenium script that automates the process of filling out and submitting a Google Form. The script interacts with a Google Form to input data into various fields like Name, Contact Number, Email, Address, Pincode, Date of Birth, Gender, and Type. It also demonstrates the usage of various Selenium features such as waiting for elements, interacting with dynamic content, and automating form submission.
 
-Features
+Features:
+
 1.Automates Google Forms Submission: Automatically fills and submits the Google Form with predefined data.
 
 2.WebDriver Waits: Uses WebDriverWait and expected_conditions for robust interaction with dynamically loaded elements.
