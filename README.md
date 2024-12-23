@@ -16,17 +16,21 @@ Features:
 5.Date Picker Handling: Demonstrates how to handle date input fields with the correct format.
 
 Prerequisites
+
 To run this script, you will need the following:
 
 1.Python: Make sure Python 3.x is installed on your machine. You can download it from here.
+
 2.Selenium: Selenium WebDriver is required for automating the browser. Install it using
 
 pip install selenium
 
 3.ChromeDriver: Download the appropriate ChromeDriver version that matches your Chrome browser from ChromeDriver downloads.
+
 4.Google Chrome: Ensure that you have the latest version of Google Chrome installed on your machine.
 
-Setup
+Setup:
+
 1.Clone the repository to your local machine:
 git clone https://github.com/viveksingh052/GoogleForm_Automation.git
 
@@ -34,6 +38,7 @@ git clone https://github.com/viveksingh052/GoogleForm_Automation.git
 pip install -r requirements.txt
 
 3.Download and place the ChromeDriver executable in the appropriate path as referenced in the script (or update the script with your local path).
+
 4.Run the script using Python:
 python automation_script.py
 
