@@ -61,3 +61,7 @@ Google Forms: For providing an easy way to create and collect data via forms.
 Python: For being an easy-to-learn language suitable for scripting and automation.
 
 This README provides a good introduction to the project, sets up instructions, and lists dependencies and features clearly. You can further customize the content based on additional features or modifications you make to the code.
+![Screenshot (322)](https://github.com/user-attachments/assets/4201451d-415a-4037-815d-b9722e9639d7)
+![Screenshot (323)](https://github.com/user-attachments/assets/e7a87014-e61e-45db-addf-a78fcded24c3)
+![Screenshot (325)](https://github.com/user-attachments/assets/25c5e5ef-570e-44f9-97a2-4fc96bfa76e3)
+
