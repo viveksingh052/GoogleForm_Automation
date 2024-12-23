@@ -5,9 +5,13 @@ This repository contains a Python-based Selenium script that automates the proce
 
 Features
 1.Automates Google Forms Submission: Automatically fills and submits the Google Form with predefined data.
+
 2.WebDriver Waits: Uses WebDriverWait and expected_conditions for robust interaction with dynamically loaded elements.
+
 3.Cross-Browser Compatibility: Works with Chrome WebDriver (can be extended to other browsers like Firefox, Edge).
+
 4.Handles Various Input Types: Simulates typing in text fields, selecting options, and submitting the form.
+
 5.Date Picker Handling: Demonstrates how to handle date input fields with the correct format.
 
 Prerequisites
